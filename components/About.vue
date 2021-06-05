@@ -24,7 +24,7 @@
 								<div class="about_counting">
 									<div class="icon"><span class="flaticon-user"></span></div>
 									<div class="details">
-										<h3>30</h3>
+										<h3>90</h3>
 										<p>Clientes satisfechos</p>
 									</div>
 								</div>

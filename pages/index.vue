@@ -234,7 +234,32 @@
             price:"1",
             extra:"x 5",
             image:"products/minified/anzuelos-min.jpg"
-          }
+          },
+          {
+            title:"Luces de pesca",
+            category:"Pesca",
+            price:"5",
+            image:"products/minified/tajali-min.jpg"
+          },
+          {
+            title:"Cuchilla de licuadora",
+            category:"Hogar",
+            price:"5",
+            image:"products/minified/cuchilla-min.jpg"
+          },
+          {
+            title:"Hojas de segueta 24 dientes",
+            category:"Ferretería",
+            price:"1.5",
+            image:"products/minified/lenox-min.jpg"
+          },
+          {
+            title:"Cuadrantes de licuadora",
+            category:"Hogar",
+            price:"1",
+            image:"products/minified/cuadrante-min.jpg"
+          },
+          
         ]
       }
     },
